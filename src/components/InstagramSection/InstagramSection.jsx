@@ -3,9 +3,9 @@ import { Container, SocialGrid, Card, SeguirButton } from "./styles";
 
 export default function InstagramSection() {
 const redes = [
-{ nome: "Instagram", Icon: FaInstagram, link: "https://www.instagram.com/ketlynra_/](https://www.instagram.com/ketlynra_/)" },
-{ nome: "Facebook", Icon: FaFacebook, link: "https://www.facebook.com/micheel.cwbrisa](https://www.facebook.com/micheel.cwbrisa)" },
-{ nome: "YouTube", Icon: FaYoutube, link: "https://www.youtube.com/@atecamping](https://www.youtube.com/@atecamping)" }
+{ nome: "Instagram", Icon: FaInstagram, link: "https://www.instagram.com/ketlynra_/(https://www.instagram.com/ketlynra_/)" },
+{ nome: "Facebook", Icon: FaFacebook, link: "https://www.facebook.com/micheel.cwbrisa(https://www.facebook.com/micheel.cwbrisa)" },
+{ nome: "YouTube", Icon: FaYoutube, link: "https://www.youtube.com/@atecamping(https://www.youtube.com/@atecamping)" }
 ];
 
 return ( <Container id="instagram"> <h2 data-aos="fade-up">Nossas Redes Sociais</h2> <SocialGrid>
