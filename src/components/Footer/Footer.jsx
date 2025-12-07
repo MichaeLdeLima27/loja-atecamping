@@ -4,8 +4,7 @@ export default function Footer() {
 const links = [
 { nome: "Home", href: "/" },
 { nome: "Produtos", href: "/todos-produtos" },
-{ nome: "Blog", href: "/blog" },
-{ nome: "Contato", href: "/contato" }
+{ nome: "Youtube", href: "https://www.youtube.com/@atecamping" },
 ];
 
 return ( <Container> <Content> <FooterLinks>

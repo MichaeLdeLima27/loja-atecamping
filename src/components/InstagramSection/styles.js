@@ -26,7 +26,8 @@ display: grid;
 grid-template-columns: repeat(5, 1fr);
 justify-items: center;
 gap: 50px;
-margin-left: 400px;
+margin-left: 430px;
+margin-bottom: 20px;
 
 @media (max-width: 1024px) {
 grid-template-columns: repeat(3, 1fr);
