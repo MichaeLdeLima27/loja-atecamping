@@ -3,7 +3,7 @@ import { Container, Content, FooterLinks, Copyright } from "./styles";
 export default function Footer() {
 const links = [
 { nome: "Home", href: "/" },
-{ nome: "Produtos", href: "/todos-produtos" },
+{ nome: "Produtos", href: "/produtos" },
 { nome: "Youtube", href: "https://www.youtube.com/@atecamping" },
 ];
 
